@@ -77,3 +77,6 @@ The dataset shows that provider representation is uneven across categories, with
 
 * `dashboard.pdf` — Looker Studio dashboard
 * `README.md` — Project documentation
+
+* Note:
+This project is created for educational and portfolio purposes using publicly available Kaggle data.
